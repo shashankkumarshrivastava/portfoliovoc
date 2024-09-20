@@ -1,0 +1,82 @@
+/* Body Styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #eaeaea; /* Light background color */
+    color: #333;
+    margin: 0;
+    padding: 20px;
+}
+
+/* Main Container */
+section {
+    margin-bottom: 40px;
+    padding: 20px;
+    background-color: #fff; /* White background for sections */
+    border-radius: 8px; /* Slightly rounded corners */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}
+
+/* Main Heading */
+h1 {
+    text-align: center;
+    font-size: 2.5em;
+    margin-bottom: 30px;
+    color: #3378bb; /* Main heading color */
+}
+
+/* Section Headings */
+h2 {
+    font-size: 1.8em;
+    margin-bottom: 15px;
+    color: #333;
+    border-bottom: 2px solid #fc6f13; /* Underline effect with accent color */
+    padding-bottom: 5px;
+}
+
+/* Project Titles */
+h3 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+    color: #444;
+}
+
+/* Paragraph Styling */
+p {
+    font-size: 1.1em;
+    line-height: 1.6;
+    margin-bottom: 15px;
+    color: #555;
+}
+
+/* Skills List Styling */
+ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+ul li {
+    font-size: 1.1em;
+    margin-bottom: 10px;
+    color: #333;
+}
+
+/* Links */
+a {
+    color: #3378bb;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #fc6f13; /* Change color on hover */
+}
+
+/* Contact Section */
+#contact p {
+    font-size: 1.1em;
+}
+
+#contact p a {
+    font-size: 1.1em;
+}
